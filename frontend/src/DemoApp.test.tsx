@@ -39,3 +39,10 @@ test('every snapshot edge has known endpoints and source provenance', () => {
     expect(edge.provenance).toBe('openalex');
   }
 });
+test('opens live search without requesting data until the visitor submits', () => {
+  const fetchMock = vi.fn(); vi.stubGlobal('fetch', fetchMock);
+  render(<DemoApp/>);
+  fireEvent.click(screen.getByRole('button', {name:'Live Research'}));
+  expect(screen.getByRole('heading', {name:'Live Research Explorer'})).toBeTruthy();
+  expect(fetchMock).not.toHaveBeenCalled();
+});

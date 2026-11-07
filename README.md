@@ -2,7 +2,11 @@
 
 ## Read-only Render portfolio demo
 
-The frontend includes an optional static demo that does not contact the backend, OpenAlex, or an LLM. It uses a curated snapshot of paper titles, OpenAlex links, years, and 18 citation relationships from `backend/reports/citation_temporal_audit.csv`, plus the recorded Phase 4.5 and 5.5 evaluation reports. The graph is a sample, not the complete corpus. Results are precomputed, and a predicted citation is not a confirmed research gap. The existing Docker application remains the default.
+The frontend includes an optional read-only demo that does not contact the local backend or an LLM. Its portfolio section uses a curated snapshot of paper titles, OpenAlex links, years, and 18 citation relationships from `backend/reports/citation_temporal_audit.csv`, plus the recorded Phase 4.5 and 5.5 evaluation reports. The graph is a sample, not the complete corpus. These results are precomputed, and a predicted citation is not a confirmed research gap. The existing Docker application remains the default.
+
+The separate **Live Research** page sends a request directly from the visitor's browser to the [OpenAlex works API](https://docs.openalex.org/) only when the visitor submits a topic or changes pages. It supports an optional publication year and up to ten pages of ten works. Search terms and the visitor's IP address are sent to OpenAlex; live results are not saved to the portfolio snapshot. No API key, private email address, embeddings, GraphSAGE inference, gap discovery, or LLM generation is involved. Paper metadata is provided by [OpenAlex](https://openalex.org/); follow the source links and review the original research.
+
+Keyless OpenAlex use is subject to its anonymous daily budget and rate limits, which may be shared by people on the same network. A rate limit, network failure, or OpenAlex policy change can make live search temporarily unavailable. Basic pagination is bounded well below the provider's limit; the demo does not use cursor pagination. See [OpenAlex authentication and usage limits](https://help.openalex.org/api/authentication/). Render's free usage limits still apply; no paid service or account credential is required for this static client.
 
 To preview locally from `frontend`, set `VITE_DEMO_MODE=true` and run `npm run dev` or `npm run build`. In PowerShell: `$env:VITE_DEMO_MODE='true'; npm run build`. Clear that variable before building the regular backend-connected application.
 
