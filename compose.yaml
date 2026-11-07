@@ -4,9 +4,9 @@ services:
     environment:
       POSTGRES_DB: ${POSTGRES_DB:-researchgraph}
       POSTGRES_USER: ${POSTGRES_USER:-researchgraph}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change-me-locally}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
     ports:
-      - "${POSTGRES_PORT:-5432}:5432"
+      - "127.0.0.1:${POSTGRES_PORT:-5432}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
@@ -17,7 +17,7 @@ services:
   backend:
     build: ./backend
     environment:
-      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg://researchgraph:change-me-locally@db:5432/researchgraph}
+      DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL in .env}
       OPENALEX_API_KEY: ${OPENALEX_API_KEY:-}
       ANALYSIS_PROVIDER: ${ANALYSIS_PROVIDER:-deterministic}
       GEMINI_API_KEY: ${GEMINI_API_KEY:-}

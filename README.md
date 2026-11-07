@@ -128,7 +128,7 @@ flowchart TD
 |---|---|:---:|---|
 | `POSTGRES_DB` | `researchgraph` | No | PostgreSQL database name |
 | `POSTGRES_USER` | `researchgraph` | No | PostgreSQL username |
-| `POSTGRES_PASSWORD` | `change-me-locally` | Yes | Local PostgreSQL password |
+| `POSTGRES_PASSWORD` | None | Yes | Unique local PostgreSQL password; use the same value in `DATABASE_URL` |
 | `POSTGRES_PORT` | `5432` | No | Host port mapped to PostgreSQL container (set to `55432` if occupied) |
 | `BACKEND_PORT` | `8000` | No | Host port mapped to FastAPI backend (set to `8002` if occupied) |
 | `DATABASE_URL` | `postgresql+psycopg://...` | Yes | SQLAlchemy database connection string |
@@ -155,7 +155,7 @@ Copy the template configuration:
 ```sh
 cp .env.example .env
 ```
-Ensure ports in `.env` match your host preferences (e.g. `POSTGRES_PORT=55432`, `BACKEND_PORT=8002`).
+Replace `REPLACE_WITH_UNIQUE_PASSWORD` in both `POSTGRES_PASSWORD` and `DATABASE_URL` with the same strong, unique password. Keep `.env` private. For URL-special characters, percent-encode the password in `DATABASE_URL`. Ensure ports in `.env` match your host preferences (e.g. `POSTGRES_PORT=55432`, `BACKEND_PORT=8002`). PostgreSQL is exposed only on localhost. Changing `POSTGRES_PASSWORD` after the database has been initialized does not rotate the existing role password; update the PostgreSQL role separately.
 
 ### 2. Start Services
 ```sh

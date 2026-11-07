@@ -5,7 +5,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
     app_name: str = "ResearchGraph AI"
-    database_url: str = "postgresql+psycopg://researchgraph:change-me-locally@localhost:5432/researchgraph"
+    database_url: str
     openalex_api_key: str = ""
     analysis_provider: str = "deterministic"
     gemini_api_key: str = ""
