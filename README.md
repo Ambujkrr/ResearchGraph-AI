@@ -41,6 +41,23 @@ flowchart TD
 
 ---
 
+## Technology Stack
+
+| Layer | Technologies | Role in System |
+|---|---|---|
+| **Database** | PostgreSQL 16, pgvector (`0.5.1`) | Relational persistence, JSON metadata, 384-dimensional vector similarity search |
+| **Backend API** | FastAPI (`0.115+`), Uvicorn, Pydantic v2 | High-performance asynchronous API, input bounds, concurrency locks |
+| **Database ORM & Migrations** | SQLAlchemy 2.0, Alembic | Schema versioning (9 migrations), advisory locking, migration management |
+| **Embeddings** | `sentence-transformers` (`all-MiniLM-L6-v2`) | Revision-pinned dense text embeddings on CPU (PyTorch 2.15) |
+| **Graph Neural Network** | PyTorch Geometric (`torch-geometric 2.8.1`), NetworkX | 2-layer GraphSAGE link prediction, random edge splits, directional projections |
+| **Baselines & Metrics** | Scikit-learn, NumPy, SciPy | Cosine, popularity, common neighbors, Adamic–Adar, ROC-AUC, MRR, Hits@k |
+| **LLM Provider** | Google Gemini API (`gemini-3.5-flash-lite`) | Constrained structured synthesis via Google AI Studio unbilled free tier |
+| **Frontend** | React 18, TypeScript 5.6, Vite 8, Lucide React | Interactive research dashboard, graph visualization, evidence review UI |
+| **Testing** | Pytest 9.2 (backend), Vitest 5.1 (frontend) | 44 backend tests (100% pass), 7 frontend component tests (100% pass) |
+| **Containerization** | Docker, Docker Compose | Multi-container orchestration, persistent named volumes, health checks |
+
+---
+
 ## Key System Components
 
 1. **Corpus & Embeddings**:
@@ -105,6 +122,28 @@ flowchart TD
 
 ---
 
+## Environment Variables Reference
+
+| Variable | Default Value | Required | Purpose |
+|---|---|:---:|---|
+| `POSTGRES_DB` | `researchgraph` | No | PostgreSQL database name |
+| `POSTGRES_USER` | `researchgraph` | No | PostgreSQL username |
+| `POSTGRES_PASSWORD` | `change-me-locally` | Yes | Local PostgreSQL password |
+| `POSTGRES_PORT` | `5432` | No | Host port mapped to PostgreSQL container (set to `55432` if occupied) |
+| `BACKEND_PORT` | `8000` | No | Host port mapped to FastAPI backend (set to `8002` if occupied) |
+| `DATABASE_URL` | `postgresql+psycopg://...` | Yes | SQLAlchemy database connection string |
+| `OPENALEX_API_KEY` | `""` | No | Free OpenAlex API key for collection and search |
+| `EMBEDDING_CPU_THREADS` | `2` | No | PyTorch CPU thread allocation for text embeddings (capped at 8) |
+| `ANALYSIS_PROVIDER` | `deterministic` | No | Default analysis provider (`deterministic` or `gemini`) |
+| `GEMINI_API_KEY` | `""` | No | Google AI Studio free-tier API key |
+| `GEMINI_FREE_TIER_CONFIRMED` | `false` | No | User confirmation that the key belongs to an unbilled project |
+| `GEMINI_MODEL` | `gemini-3.5-flash-lite` | No | Allowlisted Gemini Flash-Lite model identifier |
+| `GEMINI_DAILY_REQUEST_LIMIT` | `5` | No | Hard daily request limit per UTC day (capped at 5) |
+| `CORS_ORIGINS` | `["http://localhost:5173"]` | No | Allowed CORS browser origins (JSON string array) |
+| `VITE_API_BASE_URL` | `http://localhost:8000` | No | Frontend API base URL (must match host `BACKEND_PORT`) |
+
+---
+
 ## Quickstart with Docker Compose
 
 ### Prerequisites
@@ -116,7 +155,7 @@ Copy the template configuration:
 ```sh
 cp .env.example .env
 ```
-Ensure ports `55432` (or `5432`) and `8002` (or `8000`) in `.env` match your host preferences.
+Ensure ports in `.env` match your host preferences (e.g. `POSTGRES_PORT=55432`, `BACKEND_PORT=8002`).
 
 ### 2. Start Services
 ```sh
@@ -167,6 +206,28 @@ npm audit         # Security audit: 0 vulnerabilities found
 
 ---
 
+## Core API Endpoints Reference
+
+| Method | Endpoint | Description |
+|---|---|---|
+| `GET` | `/health` | Process liveness check |
+| `GET` | `/api/v1/status` | API version and foundation phase status |
+| `GET` | `/api/v1/papers` | Paginated paper metadata search and filtering |
+| `POST` | `/api/v1/papers/ingest` | Synchronous ingestion of selected OpenAlex paper IDs |
+| `POST` | `/api/v1/collections` | Start background OpenAlex collection job (bounded to 1,000 papers) |
+| `POST` | `/api/v1/embeddings/generate` | Generate 384-d pgvector embeddings in batches of 16 |
+| `GET` | `/api/v1/graph/summary` | Citation, authorship, and topic edge counts |
+| `GET` | `/api/v1/graph/neighborhood` | Bounded graph neighborhood centered on a paper |
+| `POST` | `/api/v1/experiments` | Run single-process GraphSAGE CPU link prediction experiment |
+| `GET` | `/api/v1/experiments/{id}/candidates` | Filtered, ranked candidate citation links with baseline scores |
+| `GET` | `/api/v1/analysis/providers` | Active providers, model name, and free-tier status |
+| `GET` | `/api/v1/analysis/evidence` | Hybrid Reciprocal Rank Fusion evidence retrieval |
+| `POST` | `/api/v1/analyses` | Dispatch structured evidence analysis with advisory lock |
+| `GET` | `/api/v1/analyses/{id}` | Detailed analysis result, claims, synthesis, and limitations |
+| `GET` | `/api/v1/analyses/{id}/citations/{cid}/verify` | Un-redirected HEAD check against DOI resolver |
+
+---
+
 ## End-to-End Interview Demonstration Workflow
 
 Follow these steps to demonstrate the end-to-end pipeline during an interview or review:
@@ -191,6 +252,15 @@ Follow these steps to demonstrate the end-to-end pipeline during an interview or
    - Open **Analysis 9**: Review the **abstention safeguard** when source paper lacks an abstract.
    - Open **Analysis 10**: Review the **abstention safeguard** under a restricted evidence budget (`top_k=2`).
    - Open **Analysis 7**: Review the **deterministic fallback** handling when a provider error occurs.
+
+---
+
+## Limitations & Future Roadmap
+
+- **Prospective Evaluation Benchmark**: Implement calendar cutoff splits (e.g. training on literature published $\le 2020$, evaluating on prospective citations formed in $2021–2024$) to measure forward temporal prediction.
+- **Full-Text Integration**: Integrate open-access full-text PDFs (via PMC or arXiv bulk data) to ground claims in methods and experimental sections rather than abstract-level metadata.
+- **Calibrated Probability Scores**: Train Platt scaling or isotonic regression on validation predictions to provide calibrated gap likelihood probabilities rather than raw uncalibrated scores.
+- **Cross-Domain Transfer**: Evaluate whether structural GraphSAGE embeddings transfer across disparate scientific subdomains (e.g., materials science to organic synthesis).
 
 ---
 
