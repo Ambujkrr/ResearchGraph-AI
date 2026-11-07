@@ -1,5 +1,22 @@
 # ResearchGraph AI
 
+## Read-only Render portfolio demo
+
+The frontend includes an optional static demo that does not contact the backend, OpenAlex, or an LLM. It uses a curated snapshot of paper titles, OpenAlex links, years, and 18 citation relationships from `backend/reports/citation_temporal_audit.csv`, plus the recorded Phase 4.5 and 5.5 evaluation reports. The graph is a sample, not the complete corpus. Results are precomputed, and a predicted citation is not a confirmed research gap. The existing Docker application remains the default.
+
+To preview locally from `frontend`, set `VITE_DEMO_MODE=true` and run `npm run dev` or `npm run build`. In PowerShell: `$env:VITE_DEMO_MODE='true'; npm run build`. Clear that variable before building the regular backend-connected application.
+
+For a Render **Static Site**, use these settings (do not add secrets):
+
+| Setting | Value |
+| --- | --- |
+| Root directory | `frontend` |
+| Build command | `npm ci && npm run build` |
+| Publish directory | `dist` |
+| Environment variable | `VITE_DEMO_MODE=true` |
+
+Vite uses the `/` base path. This interface does not use URL-based client routing. Render static sites have included free usage, but bandwidth and build minutes are limited at the workspace level; exceeding included usage can incur charges if billing is enabled. Review the current Render pricing and workspace limits before deploying. Deployment is not performed by these instructions.
+
 An evidence-grounded research gap exploration system that combines scientific paper metadata from OpenAlex, pinned dense semantic embeddings with pgvector, GraphSAGE link prediction over citation networks, hybrid reciprocal-rank fusion evidence retrieval, and structured generative hypothesis synthesis via Google Gemini Flash-Lite.
 
 ---

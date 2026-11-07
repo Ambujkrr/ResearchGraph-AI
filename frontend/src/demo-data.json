@@ -1,0 +1,277 @@
+{
+  "source": "backend/reports/citation_temporal_audit.csv",
+  "papers": [
+    {
+      "id": "5",
+      "title": "Graph neural networks driven acceleration in drug discovery",
+      "year": "2025",
+      "url": "https://openalex.org/W4415320025"
+    },
+    {
+      "id": "239",
+      "title": "A comprehensive review of neural network-based approaches for drug–target interaction prediction",
+      "year": "2025",
+      "url": "https://openalex.org/W4412662669"
+    },
+    {
+      "id": "310",
+      "title": "CL-GNN: Contrastive Learning and Graph Neural Network for Protein–Ligand Binding Affinity Prediction",
+      "year": "2025",
+      "url": "https://openalex.org/W4407212030"
+    },
+    {
+      "id": "513",
+      "title": "Dual modality feature fused neural network integrating binding site information for drug target affinity prediction",
+      "year": "2025",
+      "url": "https://openalex.org/W4406892770"
+    },
+    {
+      "id": "23",
+      "title": "Molecular Graph Neural Networks in Drug Discovery: A Narrative Review",
+      "year": "2025",
+      "url": "https://openalex.org/W7162690543"
+    },
+    {
+      "id": "26",
+      "title": "Enhancing drug discovery with AI: Predictive modeling of pharmacokinetics using Graph Neural Networks and ensemble learning",
+      "year": "2024",
+      "url": "https://openalex.org/W4404803126"
+    },
+    {
+      "id": "8",
+      "title": "Knowledge mapping of graph neural networks for drug discovery: a bibliometric and visualized analysis",
+      "year": "2024",
+      "url": "https://openalex.org/W4396806998"
+    },
+    {
+      "id": "69",
+      "title": "A compact review of molecular property prediction with graph neural networks",
+      "year": "2020",
+      "url": "https://openalex.org/W3110901318"
+    },
+    {
+      "id": "90",
+      "title": "A Comprehensive Survey on Graph Neural Networks",
+      "year": "2020",
+      "url": "https://openalex.org/W2907492528"
+    },
+    {
+      "id": "364",
+      "title": "Can Graph Neural Networks Count Substructures?",
+      "year": "2020",
+      "url": "https://openalex.org/W3005043394"
+    },
+    {
+      "id": "83",
+      "title": "MetaLearning with Graph Neural Networks",
+      "year": "2021",
+      "url": "https://openalex.org/W4206782395"
+    },
+    {
+      "id": "349",
+      "title": "Few-Shot Graph Learning for Molecular Property Prediction",
+      "year": "2021",
+      "url": "https://openalex.org/W3130274530"
+    },
+    {
+      "id": "86",
+      "title": "Benchmarking Graph Neural Networks",
+      "year": "2020",
+      "url": "https://openalex.org/W3007332492"
+    },
+    {
+      "id": "92",
+      "title": "Application of Deep Neural Network Models in Drug Discovery Programs",
+      "year": "2021",
+      "url": "https://openalex.org/W3202939305"
+    },
+    {
+      "id": "9",
+      "title": "Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models",
+      "year": "2021",
+      "url": "https://openalex.org/W3116202926"
+    },
+    {
+      "id": "107",
+      "title": "Comprehensive evaluation of deep and graph learning on drug–drug interactions prediction",
+      "year": "2023",
+      "url": "https://openalex.org/W4380136659"
+    },
+    {
+      "id": "74",
+      "title": "A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions",
+      "year": "2023",
+      "url": "https://openalex.org/W4318150241"
+    },
+    {
+      "id": "121",
+      "title": "Graph neural networks for materials science and chemistry",
+      "year": "2022",
+      "url": "https://openalex.org/W4310273071"
+    },
+    {
+      "id": "306",
+      "title": "Learning graph normalization for graph neural networks",
+      "year": "2022",
+      "url": "https://openalex.org/W4206663027"
+    },
+    {
+      "id": "136",
+      "title": "Parameterized Explainer for Graph Neural Network",
+      "year": "2020",
+      "url": "https://openalex.org/W3103717137"
+    },
+    {
+      "id": "314",
+      "title": "XGNN: Towards Model-Level Explanations of Graph Neural Networks",
+      "year": "2020",
+      "url": "https://openalex.org/W3033892090"
+    },
+    {
+      "id": "137",
+      "title": "Predicting Drug–Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation",
+      "year": "2019",
+      "url": "https://openalex.org/W2969996838"
+    },
+    {
+      "id": "153",
+      "title": "Graph Convolutional Neural Networks for Predicting Drug-Target Interactions",
+      "year": "2019",
+      "url": "https://openalex.org/W2978484973"
+    },
+    {
+      "id": "139",
+      "title": "Explainability in Graph Neural Networks: A Taxonomic Survey",
+      "year": "2022",
+      "url": "https://openalex.org/W3116637551"
+    },
+    {
+      "id": "6",
+      "title": "Advanced graph and sequence neural networks for molecular property prediction and drug discovery",
+      "year": "2022",
+      "url": "https://openalex.org/W3120618935"
+    },
+    {
+      "id": "142",
+      "title": "Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks",
+      "year": "2017",
+      "url": "https://openalex.org/W2578240541"
+    },
+    {
+      "id": "116",
+      "title": "Low Data Drug Discovery with One-Shot Learning",
+      "year": "2017",
+      "url": "https://openalex.org/W2565684601"
+    },
+    {
+      "id": "149",
+      "title": "A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability",
+      "year": "2024",
+      "url": "https://openalex.org/W4403004898"
+    },
+    {
+      "id": "203",
+      "title": "Trustworthy Graph Neural Networks: Aspects, Methods, and Trends",
+      "year": "2024",
+      "url": "https://openalex.org/W4393034172"
+    },
+    {
+      "id": "159",
+      "title": "EdgeSHAPer: Bond-centric Shapley value-based explanation method for graph neural networks",
+      "year": "2022",
+      "url": "https://openalex.org/W4293581802"
+    }
+  ],
+  "citations": [
+    {
+      "source": "5",
+      "target": "239",
+      "provenance": "openalex"
+    },
+    {
+      "source": "5",
+      "target": "310",
+      "provenance": "openalex"
+    },
+    {
+      "source": "5",
+      "target": "513",
+      "provenance": "openalex"
+    },
+    {
+      "source": "23",
+      "target": "5",
+      "provenance": "openalex"
+    },
+    {
+      "source": "26",
+      "target": "8",
+      "provenance": "openalex"
+    },
+    {
+      "source": "69",
+      "target": "90",
+      "provenance": "openalex"
+    },
+    {
+      "source": "69",
+      "target": "364",
+      "provenance": "openalex"
+    },
+    {
+      "source": "83",
+      "target": "349",
+      "provenance": "openalex"
+    },
+    {
+      "source": "86",
+      "target": "90",
+      "provenance": "openalex"
+    },
+    {
+      "source": "92",
+      "target": "9",
+      "provenance": "openalex"
+    },
+    {
+      "source": "107",
+      "target": "74",
+      "provenance": "openalex"
+    },
+    {
+      "source": "121",
+      "target": "306",
+      "provenance": "openalex"
+    },
+    {
+      "source": "136",
+      "target": "314",
+      "provenance": "openalex"
+    },
+    {
+      "source": "137",
+      "target": "153",
+      "provenance": "openalex"
+    },
+    {
+      "source": "139",
+      "target": "6",
+      "provenance": "openalex"
+    },
+    {
+      "source": "142",
+      "target": "116",
+      "provenance": "openalex"
+    },
+    {
+      "source": "149",
+      "target": "203",
+      "provenance": "openalex"
+    },
+    {
+      "source": "159",
+      "target": "139",
+      "provenance": "openalex"
+    }
+  ]
+}
