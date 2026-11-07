@@ -1,0 +1,65 @@
+{
+  "cases": [
+    {
+      "analysis_id": 4,
+      "case": "related literature via an observed OpenAlex citation",
+      "papers": 8,
+      "related_papers": 6,
+      "abstracts": 7,
+      "external_records": 0,
+      "valid_openalex_ids": 8,
+      "unchecked_links": 8,
+      "title_term_matches_both": 1,
+      "observed_citation_references": 1,
+      "metadata_claims": 8,
+      "metadata_claims_matching_cited_title": 8,
+      "unsupported_identifiers": 0,
+      "status": "unable to assess",
+      "generative": false,
+      "full_text_verified": 0
+    },
+    {
+      "analysis_id": 5,
+      "case": "ambiguous relationship with external metadata",
+      "papers": 8,
+      "related_papers": 6,
+      "abstracts": 6,
+      "external_records": 3,
+      "valid_openalex_ids": 8,
+      "unchecked_links": 8,
+      "title_term_matches_both": 1,
+      "observed_citation_references": 0,
+      "metadata_claims": 8,
+      "metadata_claims_matching_cited_title": 8,
+      "unsupported_identifiers": 0,
+      "status": "unable to assess",
+      "generative": false,
+      "full_text_verified": 0
+    },
+    {
+      "analysis_id": 6,
+      "case": "limited-evidence / abstention (top_k=2)",
+      "papers": 2,
+      "related_papers": 0,
+      "abstracts": 2,
+      "external_records": 0,
+      "valid_openalex_ids": 2,
+      "unchecked_links": 2,
+      "title_term_matches_both": 0,
+      "observed_citation_references": 0,
+      "metadata_claims": 2,
+      "metadata_claims_matching_cited_title": 2,
+      "unsupported_identifiers": 0,
+      "status": "insufficient evidence",
+      "generative": false,
+      "full_text_verified": 0
+    }
+  ],
+  "limitations": [
+    "Title-term overlap is a mechanical cue, not relevance or expert judgment.",
+    "Citation identifier matching does not establish claim support.",
+    "Only deterministic metadata claims were checked; a scientific unsupported-claim rate is not measurable without adjudicated claims.",
+    "No full text was inspected and links were not contacted.",
+    "The insufficient-evidence case uses a deliberately restricted top_k=2 and does not imply absent literature."
+  ]
+}

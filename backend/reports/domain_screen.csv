@@ -1,0 +1,503 @@
+paper_id,title,openalex_id,screen
+1,Graph neural networks,https://openalex.org/W4392553889,no domain term - manual review required
+2,The Graph Neural Network Model,https://openalex.org/W2116341502,term present
+3,Molecular generative Graph Neural Networks for Drug Discovery,https://openalex.org/W3110933132,term present
+4,Graph Neural Networks in Modern AI-Aided Drug Discovery,https://openalex.org/W4414290389,term present
+5,Graph neural networks driven acceleration in drug discovery,https://openalex.org/W4415320025,term present
+6,Advanced graph and sequence neural networks for molecular property prediction and drug discovery,https://openalex.org/W3120618935,term present
+7,Graph Neural Networks for COVID-19 Drug Discovery,https://openalex.org/W3137188301,term present
+8,Knowledge mapping of graph neural networks for drug discovery: a bibliometric and visualized analysis,https://openalex.org/W4396806998,term present
+9,Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models,https://openalex.org/W3116202926,term present
+10,Graph neural networks for drug discovery: protocols and applications,https://openalex.org/W7126382357,term present
+11,Intelligence on the graph: Graph neural networks for mechanistic drug target discovery,https://openalex.org/W4416931215,term present
+12,Reliable Graph Neural Networks for Drug Discovery Under Distributional Shift,https://openalex.org/W3216638646,term present
+13,A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges,https://openalex.org/W4416068517,term present
+14,Drug discovery and mechanism prediction with explainable graph neural networks,https://openalex.org/W4406017182,term present
+15,Graph Neural Networks for Drug Discovery: An Integrated Decision Support Pipeline,https://openalex.org/W4391422824,term present
+16,3D Equivariant Graph Neural Networks for Drug Discovery,https://openalex.org/W3087382772,term present
+17,Revolutionizing Drug Discovery with Graph Neural Networks for Enhanced Interaction Prediction,https://openalex.org/W4416924325,term present
+18,Survey Paper on Various Techniques of Drug Discovery by Graph Neural Networks,https://openalex.org/W4406322869,term present
+19,"""GRAPH NEURAL NETWORKS (GNNS) IN DRUG DISCOVERY AND DRUG TARGET AFFINITY (DTA) PREDICTION""",https://openalex.org/W7163006540,term present
+20,AI-Enhanced Drug Discovery Using Graph Neural Networks,https://openalex.org/W7160613908,term present
+21,What is a Graph Neural Network in Drug Discovery? The AI Revolution in Pharmaceutical Research,https://openalex.org/W7116366360,term present
+22,An Integrated Graph Neural Network and Reinforcement Learning Framework for Intelligent Drug Discovery,https://openalex.org/W4417073891,term present
+23,Molecular Graph Neural Networks in Drug Discovery: A Narrative Review,https://openalex.org/W7162690543,term present
+24,PepGB: Facilitating peptide drug discovery via graph neural networks,https://openalex.org/W4391335127,term present
+25,Explainable AI in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening,https://openalex.org/W4388042006,term present
+26,Enhancing drug discovery with AI: Predictive modeling of pharmacokinetics using Graph Neural Networks and ensemble learning,https://openalex.org/W4404803126,term present
+27,Overcoming class imbalance in drug discovery problems: Graph neural networks and balancing approaches,https://openalex.org/W4387190026,term present
+28,Practical High-Quality Electrostatic Potential Surfaces for Drug Discovery Using a Graph-Convolutional Deep Neural Network,https://openalex.org/W2976040872,term present
+29,RGFP-Net: Graph Neural Networks for Molecular Property Prediction in Drug Discovery,https://openalex.org/W7117983448,term present
+30,Deep Surrogate Docking: Accelerating Automated Drug Discovery with Graph Neural Networks,https://openalex.org/W4308610392,term present
+31,Graph-Based Drug Discovery and Risk Assessment for Opioid Use Disorder Using Graph Neural Networks and Knowledge Graphs,https://openalex.org/W4415934368,term present
+32,Graph Representation Learning for Drug Discovery: Integrating Graph Neural Networks with Molecular Property Prediction and Explainable AI,https://openalex.org/W7222853523,term present
+33,GNN ‐ DDAS : Drug discovery for identifying anti‐schistosome small molecules based on graph neural network,https://openalex.org/W4401920449,term present
+34,Application of Explainable Graph Neural Networks in Drug and Biomarker Discovery for Human Diseases,https://openalex.org/W7208828033,term present
+35,"Deep Learning for Drug Discovery, Property Prediction with Neural Networks on Raw Molecular Graphs",https://openalex.org/W2943390841,term present
+36,Drug Discovery Using Graph Neural Networks: A Deep Learning Framework for Molecular Property Prediction and Virtual Screening,https://openalex.org/W7164175736,term present
+37,Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery,https://openalex.org/W4382317956,term present
+38,Machine learning drug discovery based on graph neural network and large language model,https://openalex.org/W4390884937,term present
+39,A Topological Deep Knowledge Graph Approach for Protein Interaction: Sheaf Neural Networks in Drug Discovery,https://openalex.org/W4411584488,term present
+40,NciaNet: A Non-Covalent Interaction-Aware Graph Neural Network for the Prediction of Protein-Ligand Interaction in Drug Discovery,https://openalex.org/W4408145533,term present
+41,LamNet: an alchemical-path-aware graph neural network to accelerate binding free energy calculations for drug discovery and beyond,https://openalex.org/W7110847151,term present
+42,Statistical comparison and uncertainty analysis of graph neural networks and machine learning models for molecular property prediction in drug discovery,https://openalex.org/W7115904589,term present
+43,Quantum drug discovery: a hybrid quantum graph neural network–variational quantum eigensolver framework for serine neutralization,https://openalex.org/W4412202180,term present
+44,A heterogeneous graph neural network with automatic discovery of effective metapaths for drug–target interaction prediction,https://openalex.org/W4399040602,term present
+45,Deep learning enhanced drug discovery for novel biomaterials in regenerative medicine utilizing graph neural network approach for predicting cellular responses,https://openalex.org/W4395111046,term present
+46,Graph neural network approaches for drug-target interactions,https://openalex.org/W4206078729,term present
+47,Performance and robustness of small molecule retention time prediction with molecular graph neural networks in industrial drug discovery campaigns,https://openalex.org/W4394850168,term present
+48,FINDER: A Function-Centered Relational Graph Neural Network for Interpretable Drug Repositioning and Mechanism Discovery,https://openalex.org/W7224101432,term present
+49,MDMNI-DGD: A novel graph neural network approach for druggable gene discovery based on the integration of multi-omics data and the multi-view network,https://openalex.org/W4405114929,term present
+50,Empowering Graph Neural Networks with Block-Based Dual Adaptive Deep Adjustment for Drug Resistance-Related NcRNA Discovery,https://openalex.org/W4393154949,term present
+51,Retraction Note: Drug discovery through Covid-19 genome sequencing with siamese graph convolutional neural network,https://openalex.org/W4401855817,term present
+52,Graph Neural Network Models for Chemical Compound Activeness Prediction For COVID-19 Drugs Discovery using Lipinski’s Descriptors,https://openalex.org/W4376624731,term present
+53,Additional file 1 of Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models,https://openalex.org/W4394516146,term present
+54,Additional file 2 of Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models,https://openalex.org/W4394092224,term present
+55,Chemical-Disease-Gene Association Prediction based on Pretraining-Prompt-Finetuning Heterogeneous Graph Neural Network for Drug Discovery,https://openalex.org/W7147651953,term present
+56,Risk factors and drug discovery for cognitive impairment in type 2 diabetes mellitus using artificial intelligence interpretation and graph neural networks,https://openalex.org/W4386158307,term present
+57,Graph Neural Networks and Their Current Applications in Bioinformatics,https://openalex.org/W3188579603,term present
+58,Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism,https://openalex.org/W2968734407,term present
+59,RETRACTED ARTICLE: Drug discovery through Covid-19 genome sequencing with siamese graph convolutional neural network,https://openalex.org/W4376142487,term present
+60,MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction,https://openalex.org/W4205167309,term present
+61,Molecular contrastive learning of representations via graph neural networks,https://openalex.org/W4214868967,term present
+62,Drug repositioning based on weighted local information augmented graph neural network,https://openalex.org/W4389131658,term present
+63,Identifying drug–target interactions based on graph convolutional network and deep neural network,https://openalex.org/W3021338900,term present
+64,Graph neural networks for conditional de novo drug design,https://openalex.org/W4315767347,term present
+65,A review on graph neural networks for predicting synergistic drug combinations,https://openalex.org/W4391782448,term present
+66,DualPG‐DTA: A Large Language Model‐Powered Graph Neural Network Framework for Enhanced Drug‐Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti‐Leukemia Activity,https://openalex.org/W7125808017,term present
+67,A survey of drug-target interaction and affinity prediction methods via graph neural networks,https://openalex.org/W4379619072,term present
+68,Survey on Graph Neural Networks,https://openalex.org/W4402401635,term present
+69,A compact review of molecular property prediction with graph neural networks,https://openalex.org/W3110901318,term present
+70,Compound–protein interaction prediction with end-to-end learning of neural networks for graphs and sequences,https://openalex.org/W2860192827,term present
+71,Everything is connected: Graph neural networks,https://openalex.org/W4319762935,no domain term - manual review required
+72,Pre-training graph neural networks for link prediction in biomedical networks,https://openalex.org/W4213235856,term present
+73,Graph convolutional networks for computational drug development and discovery,https://openalex.org/W2948035163,term present
+74,A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions,https://openalex.org/W4318150241,term present
+75,Advancing drug discovery with deep attention neural networks,https://openalex.org/W4399954566,term present
+76,Kolmogorov–Arnold graph neural networks for molecular property prediction,https://openalex.org/W4413224864,term present
+77,Predicting Protein–Ligand Docking Structure with Graph Neural Network,https://openalex.org/W4282835253,term present
+78,Learning Graph-Level Representation for Drug Discovery,https://openalex.org/W2754490690,term present
+79,Message Passing Neural Networks,https://openalex.org/W3034077950,no domain term - manual review required
+80,BridgeDPI: a novel Graph Neural Network for predicting drug–protein interactions,https://openalex.org/W4220788456,term present
+81,Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity,https://openalex.org/W3167575787,term present
+82,A graph neural network approach for predicting drug susceptibility in the human microbiome,https://openalex.org/W4400179006,term present
+83,MetaLearning with Graph Neural Networks,https://openalex.org/W4206782395,term present
+84,Transfer learning with graph neural networks for improved molecular property prediction in the multi-fidelity setting,https://openalex.org/W4392157869,term present
+85,Convolutional Neural Networks For Advanced Drug Discovery And Development,https://openalex.org/W7150938383,term present
+86,Benchmarking Graph Neural Networks,https://openalex.org/W3007332492,term present
+87,Drug-target Interaction Prediction By Combining Transformer and Graph Neural Networks,https://openalex.org/W4386715538,term present
+88,NeoDTI: neural integration of neighbor information from a heterogeneous network for discovering new drug–target interactions,https://openalex.org/W2952522777,term present
+89,Gated Graph Sequence Neural Networks,https://openalex.org/W2244807774,term present
+90,A Comprehensive Survey on Graph Neural Networks,https://openalex.org/W2907492528,no domain term - manual review required
+91,Learning Convolutional Neural Networks for Graphs,https://openalex.org/W2406128552,no domain term - manual review required
+92,Application of Deep Neural Network Models in Drug Discovery Programs,https://openalex.org/W3202939305,term present
+93,GraphscoreDTA: optimized graph neural network for protein–ligand binding affinity prediction,https://openalex.org/W4377968189,term present
+94,MD-GNN: A mechanism-data-driven graph neural network for molecular properties prediction and new material discovery,https://openalex.org/W4375946946,term present
+95,Graph Neural Networks in Cheminformatics,https://openalex.org/W3126515710,no domain term - manual review required
+96,Graph neural networks with molecular segmentation for property prediction and structure–property relationship discovery,https://openalex.org/W4386483423,term present
+97,Introduction to Graph Neural Network,https://openalex.org/W4377247632,term present
+98,Dual-route embedding-aware graph neural networks for drug repositioning,https://openalex.org/W4415615042,term present
+99,Molecular substructure graph attention network for molecular property identification in drug discovery,https://openalex.org/W4220980941,term present
+100,Network-based multi-omics integrative analysis methods in drug discovery: a systematic review,https://openalex.org/W4408957790,term present
+101,Line Graph Neural Network for Drug-Disease Association Prediction,https://openalex.org/W4413145695,term present
+102,Using Graph Neural Networks in Network Pharmacology for Predicting Drug Disease Associations,https://openalex.org/W7167703255,term present
+103,GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction,https://openalex.org/W3005124489,term present
+104,Applying Graph Neural Networks in Pharmacology,https://openalex.org/W4392186151,term present
+105,Deep Learning and Graph Neural Networks for Drug-Like Molecule Modeling,https://openalex.org/W7223222038,term present
+106,Graph Generation with Recurrent and Graph Neural Networks,https://openalex.org/W4391420423,term present
+107,Comprehensive evaluation of deep and graph learning on drug–drug interactions prediction,https://openalex.org/W4380136659,term present
+108,Meta Learning With Graph Attention Networks for Low-Data Drug Discovery,https://openalex.org/W4323338513,term present
+109,Hyperbolic Graph Neural Networks,https://openalex.org/W2970726356,no domain term - manual review required
+110,HiGNN: A Hierarchical Informative Graph Neural Network for Molecular Property Prediction Equipped with Feature-Wise Attention,https://openalex.org/W4311584330,term present
+111,An interpretable geometric graph neural network for enhancing the generalizability of drug–target interaction prediction,https://openalex.org/W4416716785,term present
+112,Graph pooling in graph neural networks: methods and their applications in omics studies,https://openalex.org/W4402808474,term present
+113,A Survey on AI-Powered Drug Repurposing using Graph Neural Networks,https://openalex.org/W7153548746,term present
+114,A Survey on Explainability of Graph Neural Networks,https://openalex.org/W4379538713,term present
+115,Publishing neural networks in drug discovery might compromise training data privacy,https://openalex.org/W4408855778,term present
+116,Low Data Drug Discovery with One-Shot Learning,https://openalex.org/W2565684601,term present
+117,Strategies for Pre-training Graph Neural Networks,https://openalex.org/W2996604169,term present
+118,Application of Graph Neural Networks and graph descriptors for graph classification,https://openalex.org/W4308618465,term present
+119,Graph neural networks for bioinformatics,https://openalex.org/W7169513567,no domain term - manual review required
+120,Drug - Protein Interaction Prediction using Graph Neural Networks (Gnns),https://openalex.org/W7160929706,term present
+121,Graph neural networks for materials science and chemistry,https://openalex.org/W4310273071,term present
+122,Graph Neural Networks for Graphs With Heterophily: A Survey,https://openalex.org/W4221150249,no domain term - manual review required
+123,Improved Lipophilicity and Aqueous Solubility Prediction with Composite Graph Neural Networks,https://openalex.org/W3205538317,term present
+124,Graph Neural Networks Based Explainability of Drug-Target Interactions,https://openalex.org/W4412593049,term present
+125,Massively Multitask Networks for Drug Discovery,https://openalex.org/W1738019091,term present
+126,Predicting Drug-Target Affinity Based on Recurrent Neural Networks and Graph Convolutional Neural Networks,https://openalex.org/W3130104819,term present
+127,Drug repurposing against breast cancer by integrating drug-exposure expression profiles and drug–drug links based on graph neural network,https://openalex.org/W3136821358,term present
+128,Drug Repurposing Using Graph Neural Networks (GNN),https://openalex.org/W7156043996,term present
+129,Applying Graph Neural Networks in Pharmacology,https://openalex.org/W4400288519,term present
+130,Drug-Target Interactions Prediction Based on Signed Heterogeneous Graph Neural Networks,https://openalex.org/W4392172738,term present
+131,Drug Repositioning Based on Expert Knowledge Augmented Graph Neural Network,https://openalex.org/W4416355831,term present
+132,Graph Neural Networks in Healthcare,https://openalex.org/W7208739412,term present
+133,Graph Neural Networks for Predicting Drug-Target Interactions with Structural Similarity,https://openalex.org/W7208807795,term present
+134,Uncovering hidden therapeutic indications through drug repurposing with graph neural networks and heterogeneous data,https://openalex.org/W4387847047,term present
+135,Equivariant Graph Neural Networks for Toxicity Prediction,https://openalex.org/W4386587901,term present
+136,Parameterized Explainer for Graph Neural Network,https://openalex.org/W3103717137,no domain term - manual review required
+137,Predicting Drug–Target Interaction Using a Novel Graph Neural Network with 3D Structure-Embedded Graph Representation,https://openalex.org/W2969996838,term present
+138,Hyperbolic Graph Attention Network,https://openalex.org/W3163629447,term present
+139,Explainability in Graph Neural Networks: A Taxonomic Survey,https://openalex.org/W3116637551,no domain term - manual review required
+140,BiTGNN: Prediction of drug–target interactions based on bidirectional transformer and graph neural network on heterogeneous graph,https://openalex.org/W4394924895,term present
+141,Graph Neural Networks for the Prediction of Molecular Structure–Property Relationships,https://openalex.org/W4390591490,term present
+142,Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural Networks,https://openalex.org/W2578240541,term present
+143,Evaluating deep neural networks in optimizing drug discovery and precision medicine: A review,https://openalex.org/W4402961494,term present
+144,A Survey on Oversmoothing in Graph Neural Networks,https://openalex.org/W4353007232,no domain term - manual review required
+145,Graph Neural Networks Model Based on Atomic Hybridization for Predicting Drug Targets,https://openalex.org/W7136401522,term present
+146,Machine Learning for Drug Discovery: Predicting Drug-Protein Binding Affinities using Graph Convolutional Networks,https://openalex.org/W4400315094,term present
+147,GanDTI: A multi-task neural network for drug-target interaction prediction,https://openalex.org/W3138896806,term present
+148,Drug toxicity prediction model based on enhanced graph neural network,https://openalex.org/W4405739881,term present
+149,"A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability",https://openalex.org/W4403004898,term present
+150,Development of a graph convolutional neural network model for efficient prediction of protein-ligand binding affinities,https://openalex.org/W3140330522,term present
+151,ChiENN: Embracing Molecular Chirality with Graph Neural Networks,https://openalex.org/W4386804175,term present
+152,Relation path feature embedding based convolutional neural network method for drug discovery,https://openalex.org/W2939566318,term present
+153,Graph Convolutional Neural Networks for Predicting Drug-Target Interactions,https://openalex.org/W2978484973,term present
+154,Graph Neural Network-Driven Knowledge Discovery and Recommendation in Large-Scale Heterogeneous Information Networks,https://openalex.org/W7220138494,term present
+155,Literature Review: Graph Neural Network–Based Methods for Drug–Protein Interaction Prediction,https://openalex.org/W7163770366,term present
+156,"A Systematic Review of Graph Neural Network in Healthcare-Based Applications: Recent Advances, Trends, and Future Directions",https://openalex.org/W4390933379,term present
+157,Backdoor Attacks to Graph Neural Networks,https://openalex.org/W3167334189,no domain term - manual review required
+158,DeepDDS: deep graph neural network with attention mechanism to predict synergistic drug combinations,https://openalex.org/W3203908308,term present
+159,EdgeSHAPer: Bond-centric Shapley value-based explanation method for graph neural networks,https://openalex.org/W4293581802,term present
+160,An effective self-supervised framework for learning expressive molecular global representations to drug discovery,https://openalex.org/W3179111421,term present
+161,SGFNNs: Signed Graph Filtering-based Neural Networks for Predicting Drug–Drug Interactions,https://openalex.org/W4283218863,term present
+162,Graph Neural Networks as a Potential Tool in Improving Virtual Screening Programs,https://openalex.org/W4206201713,term present
+163,Predicting drug-target interactions using graph neural networks: A deep learning approach,https://openalex.org/W4413641020,term present
+164,Toxigraphnet: a graph neural network framework for precise toxicity prediction of drug molecules,https://openalex.org/W4415521047,term present
+165,Graph Neural Networks: Graph Structure Learning,https://openalex.org/W4205903069,no domain term - manual review required
+166,An overview of graph neural networks for molecular biology: Challenges and solutions,https://openalex.org/W4403648210,term present
+167,GraMDTA: Multimodal Graph Neural Networks for Predicting Drug-Target Associations,https://openalex.org/W4313413158,term present
+168,GraphDTA: Predicting drug–target binding affinity with graph neural networks,https://openalex.org/W2955251621,term present
+169,Introducing block design in graph neural networks for molecular properties prediction,https://openalex.org/W3129168016,term present
+170,Graph Neural Networks for Molecules,https://openalex.org/W4387237425,term present
+171,Design Space for Graph Neural Networks,https://openalex.org/W3098230582,no domain term - manual review required
+172,Physicochemical graph neural network for learning protein–ligand interaction fingerprints from sequence data,https://openalex.org/W4399746375,term present
+173,Evaluating explainability for graph neural networks,https://openalex.org/W4327813569,no domain term - manual review required
+174,GrEDeL: A Knowledge Graph Embedding Based Method for Drug Discovery From Biomedical Literatures,https://openalex.org/W2905315292,term present
+175,NHGNN-DTA: a node-adaptive hybrid graph neural network for interpretable drug–target binding affinity prediction,https://openalex.org/W4378782647,term present
+176,Graph Modelling and Graph-Attention Neural Network for Immune Response Prediction,https://openalex.org/W4382935222,term present
+177,Graph Neural Networks for Drug–Target Interaction Prediction with Structure–Sequence Co-Embedding,https://openalex.org/W7134183170,term present
+178,Research on drug molecule structure prediction and target recognition based on graph neural networks,https://openalex.org/W4416795863,term present
+179,A Directed Message Passing Neural Network Model for Predicting True Solubility in Drug Discovery,https://openalex.org/W4412184175,term present
+180,Molecular Insights Unveiled: A Hybrid Neural Network Model GNN-CNN for Drug Discovery,https://openalex.org/W4408565626,term present
+181,Explaining compound activity predictions with a substructure-aware loss for graph neural networks,https://openalex.org/W4385231489,term present
+182,Cancer drug sensitivity estimation using modular deep Graph Neural Networks,https://openalex.org/W4395696738,term present
+183,Geometric Interaction Graph Neural Network for Predicting Protein–Ligand Binding Affinities from 3D Structures (GIGN),https://openalex.org/W4321004126,term present
+184,Minimal-uncertainty prediction of general drug-likeness based on Bayesian neural networks,https://openalex.org/W3048788615,term present
+185,MASMDDI: multi-layer adaptive soft-mask graph neural network for drug-drug interaction prediction,https://openalex.org/W4398137867,term present
+186,MAGNETIC: Multilayer Attention and Graph Neural Network Diffusion for Effective Drug-Target Interaction Prediction,https://openalex.org/W7172508761,term present
+187,Evaluating the Use of Graph Neural Networks and Transfer Learning for Oral Bioavailability Prediction,https://openalex.org/W4385829972,term present
+188,Graph Condensation for Graph Neural Networks,https://openalex.org/W3206450082,no domain term - manual review required
+189,Deep Learning-Based Drug Discovery: Predicting Molecular Interactions Using Neural Networks,https://openalex.org/W7163055059,term present
+190,BioGNN: How Graph Neural Networks Can Solve Biological Problems,https://openalex.org/W4297237009,no domain term - manual review required
+191,A knowledge graph embedding based approach to predict the adverse drug reactions using a deep neural network,https://openalex.org/W4283391017,term present
+192,SmileGNN: Drug–Drug Interaction Prediction Based on the SMILES and Graph Neural Network,https://openalex.org/W4213164841,term present
+193,Exploring Graph Neural Networks for Molecular Activity Prediction,https://openalex.org/W7113627387,term present
+194,Graph neural network-based drug-drug interaction prediction,https://openalex.org/W4413307575,term present
+195,Multi-layer graph attention neural networks for accurate drug-target interaction mapping,https://openalex.org/W4403891637,term present
+196,Generating explainable hypotheses for drug repurposing with graph neural networks,https://openalex.org/W7155566140,term present
+197,Graph Neural Network Bandits,https://openalex.org/W7133186363,term present
+198,Identity-aware Graph Neural Networks,https://openalex.org/W3126138172,no domain term - manual review required
+199,H2GnnDTI: hierarchical heterogeneous graph neural networks for drug–target interaction prediction,https://openalex.org/W4408512876,term present
+200,Predicting locations of cryptic pockets from single protein structures using the PocketMiner graph neural network,https://openalex.org/W4322732093,term present
+201,Improving Negative Sampling in Graph Neural Networks for Predicting Drug-Drug Interactions,https://openalex.org/W4205975370,term present
+202,AI in drug discovery and its clinical relevance,https://openalex.org/W4382132796,term present
+203,"Trustworthy Graph Neural Networks: Aspects, Methods, and Trends",https://openalex.org/W4393034172,term present
+204,PREDICTING DRUG-DRUG INTERACTIONS WITH GRAPHIC NEURAL NETWORKS (GNNS),https://openalex.org/W4413325123,term present
+205,HGDTI: predicting drug–target interaction by using information aggregation based on heterogeneous graph neural network,https://openalex.org/W4223414650,term present
+206,DMGNNs : deep multigraph neural networks for drug-target interactions,https://openalex.org/W7208208488,term present
+207,Drug–target interaction predication via multi-channel graph neural networks,https://openalex.org/W3206937279,term present
+208,"Graph Learning in Bioinformatics: A Survey of Graph Neural Network Architectures, Biological Graph Construction and Bioinformatics Applications",https://openalex.org/W7131134550,term present
+209,FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper,https://openalex.org/W4200163348,term present
+210,Convolutional Graph Neural Networks,https://openalex.org/W2980586635,term present
+211,iGRLDTI: an improved graph representation learning method for predicting drug–target interactions over heterogeneous biological information network,https://openalex.org/W4385330534,term present
+212,Echo state graph neural networks with analogue random resistive memory arrays,https://openalex.org/W4320486502,term present
+213,Toward drug-miRNA resistance association prediction by positional encoding graph neural network and multi-channel neural network,https://openalex.org/W4296982296,term present
+214,Exploring the Versatile Applications of Graph Neural Networks,https://openalex.org/W4412914374,no domain term - manual review required
+215,Adaptive Graph Convolutional Neural Networks,https://openalex.org/W2963017945,term present
+216,Applications of Artificial Neural Network Modeling in Drug Discovery,https://openalex.org/W2324726147,term present
+217,Graph neural pre-training based drug-target affinity prediction,https://openalex.org/W4402807738,term present
+218,From Graph Theory to Graph Neural Networks (GNNs): The Opportunities of GNNs in Power Electronics,https://openalex.org/W4390075187,term present
+219,A Multi-Modal Graph Neural Network Framework for Parkinson’s Disease Therapeutic Discovery,https://openalex.org/W4410157010,term present
+220,AI-enhanced drug discovery and repurposing using graph models,https://openalex.org/W4416029370,term present
+221,Fingerprint-enhanced hierarchical molecular graph neural networks for property prediction,https://openalex.org/W4407777876,term present
+222,Analysis of gene regulatory networks from gene expression using graph neural networks,https://openalex.org/W4407051264,no domain term - manual review required
+223,An In-Depth Analysis of Graph Neural Networks and Machine Learning Approaches for Drug Repositioning,https://openalex.org/W4412546076,term present
+224,Leverage graph neural network for molecular properties prediction,https://openalex.org/W4386788089,term present
+225,Graph Neural Networks for Predicting Protein-Protein Interactions,https://openalex.org/W7204521970,term present
+226,Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization,https://openalex.org/W2950407619,term present
+227,Efficient substructure feature encoding based on graph neural network blocks for drug-target interaction prediction,https://openalex.org/W4408158952,term present
+228,A Comparative Study of Graph Neural Network Models for Drug-Target Interaction Prediction,https://openalex.org/W4411169735,term present
+229,The Application of Graph Neural Networks in the Mining of Gene-phenotypic-Drug Networks for Cardiovascular Diseases,https://openalex.org/W7162642545,term present
+230,Prediction of drug-drug interaction events using graph neural networks based feature extraction,https://openalex.org/W4296044817,term present
+231,Neural Networks for Drug Discovery and Design,https://openalex.org/W4321480236,term present
+232,AI-Driven Drug Discovery: A Comprehensive Review,https://openalex.org/W4411095946,term present
+233,From matrix factorization to graph neural networks: Advances in computational drug repositioning,https://openalex.org/W4415100161,term present
+234,DTiGNN: Learning drug-target embedding from a heterogeneous biological network based on a two-level attention-based graph neural network,https://openalex.org/W4353005031,term present
+235,A Literature Knowledge Discovery Model Based on Graph Neural Network,https://openalex.org/W4403023483,term present
+236,Utilizing graph machine learning within drug discovery and development,https://openalex.org/W3160021293,term present
+237,A novel fuzzy-enhanced graph neural network with attention for drug-disease association forecasting problem,https://openalex.org/W7154492294,term present
+238,On the Frustration to Predict Binding Affinities from Protein–Ligand Structures with Deep Neural Networks,https://openalex.org/W4281381643,term present
+239,A comprehensive review of neural network-based approaches for drug–target interaction prediction,https://openalex.org/W4412662669,term present
+240,MolGpka: A Web Server for Small Molecule p K a Prediction Using a Graph-Convolutional Neural Network,https://openalex.org/W3181755904,term present
+241,Predict lncRNA-drug associations based on graph neural network,https://openalex.org/W4395670480,term present
+242,Dr-COVID: Graph Neural Networks for SARS-CoV-2 Drug Repurposing,https://openalex.org/W3107165141,term present
+243,A Methodological Framework Using Graph Neural Networks for Disease Module Discovery,https://openalex.org/W7117101283,term present
+244,Graph networks for molecular design,https://openalex.org/W3107551345,term present
+245,Emerging drug interaction prediction enabled by a flow-based graph neural network with biomedical network,https://openalex.org/W4390005328,term present
+246,Machine learning small molecule properties in drug discovery,https://openalex.org/W4387824313,term present
+247,graphLambda: Fusion Graph Neural Networks for Binding Affinity Prediction,https://openalex.org/W4391896776,term present
+248,Mfgnn: Multi‐Scale Feature‐Attentive Graph Neural Networks for Molecular Property Prediction,https://openalex.org/W4406703098,term present
+249,Enhancing Protein-Protein Interaction Prediction with Graph Neural Networks,https://openalex.org/W7162697767,term present
+250,DeepMGT-DTI: Transformer network incorporating multilayer graph information for Drug–Target interaction prediction,https://openalex.org/W4206419503,term present
+251,Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction,https://openalex.org/W3212564326,no domain term - manual review required
+252,Disentangled Multi-factor Graph Neural Network for Non-coding RNA-Drug Resistance Association Prediction,https://openalex.org/W4385654551,term present
+277,SolPredictor: Predicting Solubility with Residual Gated Graph Neural Network,https://openalex.org/W4390617904,term present
+278,GCRNN: graph convolutional recurrent neural network for compound–protein interaction prediction,https://openalex.org/W4206216434,term present
+279,Graph Neural Networks (GNNs) for Protein-Ligand Interaction Prediction,https://openalex.org/W7155525811,term present
+280,Graph Neural Networks for Predicting Drug-Target Interactions in Rare Disease,https://openalex.org/W7208838338,term present
+281,Multi-Relational Contrastive Learning Graph Neural Network for Drug-Drug Interaction Event Prediction,https://openalex.org/W4382240023,term present
+282,DMHGNN: Double multi-view heterogeneous graph neural network framework for drug-target interaction prediction,https://openalex.org/W4404450198,term present
+283,Graph neural networks for drug interaction prediction: A data-driven approach,https://openalex.org/W7163513220,term present
+284,Discovering DTI and DDI by Knowledge Graph with MHRW and Improved Neural Network,https://openalex.org/W4206777097,term present
+285,SSR-DTA: Substructure-aware multi-layer graph neural networks for drug–target binding affinity prediction,https://openalex.org/W4402697136,term present
+286,DTI Prediction Network Based on Protein Language Models and Graph Neural Networks,https://openalex.org/W4408862382,term present
+287,CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity,https://openalex.org/W4387365711,term present
+288,SkipGNN: predicting molecular interactions with skip-graph networks,https://openalex.org/W3108458441,term present
+289,Drug repurposing for Leishmaniasis with Hyperbolic Graph Neural Networks,https://openalex.org/W4320557283,term present
+290,Automated Molecule Generation using Deep Q-Learning and Graph Neural Networks,https://openalex.org/W4206346259,term present
+291,ACES-GNN: can graph neural network learn to explain activity cliffs?,https://openalex.org/W4411803493,term present
+292,Self-Supervised Learning of Graph Neural Networks: A Unified Review,https://openalex.org/W3129850062,no domain term - manual review required
+293,Multimodal graph neural networks in healthcare: a review of fusion strategies across biomedical domains,https://openalex.org/W7119464967,term present
+294,"A Comprehensive Investigation on Graph Neural Networks: Models, Applications, and Future Challenges",https://openalex.org/W7126150822,term present
+295,SpatialPPIv2: Enhancing protein–protein interaction prediction through graph neural networks with protein language models,https://openalex.org/W4406748499,term present
+296,Dual graph convolutional neural network for predicting chemical networks,https://openalex.org/W3019246273,term present
+297,Comparative Evaluation of Graph Neural Networks for Molecular Lipophilicity Prediction,https://openalex.org/W7212166140,term present
+298,DCDTI: Dual-Channel Neural Network for Drug-Target Interaction Prediction,https://openalex.org/W7162988092,term present
+299,Improving drug-induced liver injury prediction using graph neural networks with augmented graph features from molecular optimisation,https://openalex.org/W4413293238,term present
+300,Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks,https://openalex.org/W4228996904,term present
+301,"A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",https://openalex.org/W4315977496,no domain term - manual review required
+302,Gated Graph Sequence Neural Network-Based Prediction of Drug-Gene Association for Nucleoside Proteins in Oral Cancer,https://openalex.org/W7218070727,term present
+303,Non-equilibrium molecular geometries in graph neural networks,https://openalex.org/W4221156169,term present
+304,Drug-Target Interaction Prediction via Graph Auto-Encoder and Multi-Subspace Deep Neural Networks,https://openalex.org/W4295905361,term present
+305,Combinatorial optimization with physics-inspired graph neural networks,https://openalex.org/W3181036294,no domain term - manual review required
+306,Learning graph normalization for graph neural networks,https://openalex.org/W4206663027,no domain term - manual review required
+307,Accurate Prediction of Epigenetic Multi-Targets with Graph Neural Network-Based Feature Extraction,https://openalex.org/W4308120333,term present
+308,"Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities",https://openalex.org/W4385764404,no domain term - manual review required
+309,Multi-type feature fusion based on graph neural network for drug-drug interaction prediction,https://openalex.org/W4281850946,term present
+310,CL-GNN: Contrastive Learning and Graph Neural Network for Protein–Ligand Binding Affinity Prediction,https://openalex.org/W4407212030,term present
+311,Drug-Disease Graph: Predicting Adverse Drug Reaction Signals via Graph Neural Network with Clinical Data,https://openalex.org/W3021857949,term present
+312,On Explainability of Graph Neural Networks via Subgraph Explorations,https://openalex.org/W3126371003,no domain term - manual review required
+313,A Survey of Graph Neural Network Architectures in Ligand Binding Affinity Prediction Models,https://openalex.org/W4400113307,term present
+314,XGNN: Towards Model-Level Explanations of Graph Neural Networks,https://openalex.org/W3033892090,no domain term - manual review required
+315,"Federated Graph Neural Networks: Overview, Techniques, and Challenges",https://openalex.org/W4391661565,no domain term - manual review required
+316,PGDTA: Predicting Drug-Target Affinity Using Three-Dimensional Structure of Protein Pocket and Graph Neural Network,https://openalex.org/W4409683496,term present
+317,Node-aware convolution in Graph Neural Networks for Predicting molecular properties,https://openalex.org/W3113966742,term present
+318,Hierarchical Semantic Augmentation Graph Neural Network for Drug-Disease Association Prediction,https://openalex.org/W4390992024,term present
+319,From molecular graphs to drugs. A review on the use of topological indices in drug design and discovery,https://openalex.org/W2329786845,term present
+320,GIaNt: Protein-Ligand Binding Affinity Prediction via Geometry-Aware Interactive Graph Neural Network,https://openalex.org/W4386702974,term present
+321,MFGNN-DSA: A Model for Predicting Drug–Side Effect Associations via Multifeature Fusion and Graph Neural Networks,https://openalex.org/W4415351327,term present
+322,Graph Neural Network-Based EEG Classification: A Survey,https://openalex.org/W4390969131,term present
+323,Forward Learning of Graph Neural Networks,https://openalex.org/W4393023360,term present
+324,GraphBioisostere: general bioisostere prediction model with deep graph neural network,https://openalex.org/W7128068756,term present
+325,MSGNN-DTA: Multi-Scale Topological Feature Fusion Based on Graph Neural Networks for Drug–Target Binding Affinity Prediction,https://openalex.org/W4375863032,term present
+326,Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings,https://openalex.org/W3036106327,no domain term - manual review required
+327,Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network,https://openalex.org/W4285165731,term present
+328,A dual-branch graph neural network architecture for drug-target binding affinity prediction,https://openalex.org/W7136782216,term present
+329,GHOST: A Graph Neural Network Accelerator using Silicon Photonics,https://openalex.org/W4386568813,term present
+330,Distributed Graph Neural Network Training: A Survey,https://openalex.org/W4391884321,no domain term - manual review required
+331,Differential Privacy for Graph Neural Networks,https://openalex.org/W7211880676,term present
+332,Rethinking pooling in graph neural networks,https://openalex.org/W3094309150,no domain term - manual review required
+333,Dynamic Graph Embedding with Graph Neural Symbolic Learning,https://openalex.org/W7204748654,term present
+334,Interpreting Graph Neural Networks with Myerson Values for Cheminformatics Approaches,https://openalex.org/W4400463330,term present
+335,Large‐Scale AI Systems Leveraging Graph Neural Networks (GNNs),https://openalex.org/W7208788378,term present
+336,Prediction of Drug-Drug Interaction Using an Attention-Based Graph Neural Network on Drug Molecular Graphs,https://openalex.org/W4229369522,term present
+337,Revolutionizing AI: Applications of Graph Neural Networks Across Industries,https://openalex.org/W4412914434,no domain term - manual review required
+338,Graph neural networks for the identification of novel inhibitors of a small RNA,https://openalex.org/W4387641097,term present
+339,The Road to Explainable Graph Neural Networks,https://openalex.org/W4404167871,term present
+340,Graph Attention Site Prediction (GrASP): Identifying Druggable Binding Sites Using Graph Neural Networks with Attention,https://openalex.org/W4392626944,term present
+341,Graph Neural Networks with Learnable Structural and Positional Representations,https://openalex.org/W3205705101,term present
+342,NeoDTI: Neural integration of neighbor information from a heterogeneous network for discovering new drug-target interactions,https://openalex.org/W2791560836,term present
+343,A Novel Deep Neural Network Technique for Drug–Target Interaction,https://openalex.org/W4220703734,term present
+344,Prediction of Drug-Target Affinity Using Attention Neural Network,https://openalex.org/W4396732537,term present
+345,Predicting Structural Similarity between Molecules Using Graph Neural Networks,https://openalex.org/W4283394337,term present
+346,GBNSS: A Method Based on Graph Neural Networks (GNNs) for Global Biological Network Similarity Search,https://openalex.org/W4403835181,term present
+347,Local Augmentation for Graph Neural Networks,https://openalex.org/W3197135001,no domain term - manual review required
+348,Prediction of protein–protein interaction using graph neural networks,https://openalex.org/W4280617006,term present
+349,Few-Shot Graph Learning for Molecular Property Prediction,https://openalex.org/W3130274530,term present
+350,Application of Deep Learning Neural Networks in Computer-Aided Drug Discovery: A Review,https://openalex.org/W4391231502,term present
+351,Application of network link prediction in drug discovery,https://openalex.org/W3153939186,term present
+352,Decoupling the Depth and Scope of Graph Neural Networks,https://openalex.org/W3214086726,no domain term - manual review required
+353,Substructure Aware Graph Neural Networks,https://openalex.org/W4382202967,no domain term - manual review required
+354,Graph and Convolution Recurrent Neural Networks for Protein-Compound Interaction Prediction,https://openalex.org/W3111531759,term present
+355,Deep Learning Pipeline for Accelerating Virtual Screening in Drug Discovery,https://openalex.org/W4404433907,term present
+356,"A multimodule graph-based neural network for accurate drug-target interaction prediction via genomic, proteomic, and structural data fusion",https://openalex.org/W4412423882,term present
+357,A Review of Graph Neural Networks in Epidemic Modeling,https://openalex.org/W4401863416,term present
+358,Adaptive Graph Neural Networks with Temporal Memory,https://openalex.org/W7204655533,term present
+359,GraphBioisostere: General Bioisostere Prediction Model with Deep Graph Neural Network,https://openalex.org/W7169620287,no domain term - manual review required
+360,Predicting Drug–Target Interactions with Deep-Embedding Learning of Graphs and Sequences,https://openalex.org/W3166613829,term present
+361,LSTM-SAGDTA: Predicting Drug-target Binding Affinity with an Attention Graph Neural Network and LSTM Approach,https://openalex.org/W4391614714,term present
+362,Graph Neural Networks with Intrinsic Dimensionality Reduction,https://openalex.org/W7211874252,term present
+363,DIG-Mol: A Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction,https://openalex.org/W4402673581,term present
+364,Can Graph Neural Networks Count Substructures?,https://openalex.org/W3005043394,term present
+365,ProtGNN: Towards Self-Explaining Graph Neural Networks,https://openalex.org/W3215430231,no domain term - manual review required
+366,An enhanced graph neural network with fingerprints and descriptors for molecular property prediction,https://openalex.org/W7172214678,term present
+367,Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction,https://openalex.org/W4306317360,term present
+368,IMCHGAN: Inductive Matrix Completion With Heterogeneous Graph Attention Networks for Drug-Target Interactions Prediction,https://openalex.org/W3167993868,term present
+369,The rise of deep learning in drug discovery,https://openalex.org/W2790808809,term present
+370,Graph Neural Networks Pretraining Through Inherent Supervision for Molecular Property Prediction,https://openalex.org/W4306317971,term present
+371,Multilevel Fusion Graph Neural Network for Molecule Property Prediction,https://openalex.org/W4413336581,term present
+372,Training recurrent neural networks as generative neural networks for molecular structures: how does it impact drug discovery?,https://openalex.org/W4304140107,term present
+373,REDDA: Integrating multiple biological relations to heterogeneous graph neural network for drug-disease association prediction,https://openalex.org/W4296639080,term present
+374,"Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities",https://openalex.org/W4289821985,term present
+375,FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks,https://openalex.org/W3154667344,no domain term - manual review required
+376,Differential Privacy for Training Graph Neural Networks,https://openalex.org/W7206152084,term present
+377,Feature Overcorrelation in Deep Graph Neural Networks,https://openalex.org/W4283076536,term present
+378,GVNNVAE: A Novel Microbe-Drug Association Prediction Model based on an Improved Graph Neural Network and the Variational Auto-Encoder,https://openalex.org/W4403965339,term present
+379,Study of Drug Attribute Prediction Model Based on the Neural Network of Divided Attention Mechanism Graph,https://openalex.org/W4414464603,term present
+380,Enhancing Drug–Target Affinity Prediction with Non-Local Block Graph Neural Networks,https://openalex.org/W7133241452,term present
+381,Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks,https://openalex.org/W2796167946,no domain term - manual review required
+382,A Hybrid Quantum-classical Fusion Neural Network to Improve Protein-ligand Binding Affinity Predictions for Drug Discovery,https://openalex.org/W4406261775,term present
+383,Towards Self-Explainable Graph Neural Network,https://openalex.org/W3207981989,no domain term - manual review required
+384,Fast Haar Transforms for Graph Neural Networks,https://openalex.org/W3021853564,no domain term - manual review required
+385,Neuromorphic Graph Convolution with Spiking Neural Networks,https://openalex.org/W7204950373,term present
+386,Hybrid VQE–Graph Neural Network Framework for Scalable Binding-Affinity Prediction,https://openalex.org/W7165732406,term present
+387,AGDNGDA: Unraveling Drug-Associated Genes with Adaptive Graph Diffusion Networks,https://openalex.org/W4415878345,term present
+388,Unnoticeable Backdoor Attacks on Graph Neural Networks,https://openalex.org/W4323066547,no domain term - manual review required
+389,A Graph Neural Network Approach for Product Relationship Prediction,https://openalex.org/W3211471039,term present
+390,Graph Neural Networks Bootstrapped for Synthetic Selection and Validation of Small Molecule Immunomodulators,https://openalex.org/W3207235706,term present
+391,Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting,https://openalex.org/W3035664258,term present
+392,Combining graph neural networks and transformers for few-shot nuclear receptor binding activity prediction,https://openalex.org/W4402925182,term present
+393,Multimodal pre-training models of molecular representation for drug discovery,https://openalex.org/W4416123111,term present
+394,GNNGuard: Defending Graph Neural Networks against Adversarial Attacks,https://openalex.org/W3098227311,term present
+395,Graph Kernel Neural Networks,https://openalex.org/W4226438841,no domain term - manual review required
+396,Graph coloring with physics-inspired graph neural networks,https://openalex.org/W4309830359,no domain term - manual review required
+397,Pocket2Drug: An Encoder-Decoder Deep Neural Network for the Target-Based Drug Design,https://openalex.org/W4220816536,term present
+398,Capsule neural network and its applications in drug discovery,https://openalex.org/W4408432454,term present
+399,Attention-Based Graph Neural Network for Molecular Solubility Prediction,https://openalex.org/W4315708854,term present
+400,Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method,https://openalex.org/W3154492312,term present
+401,Chemi-Net: A Molecular Graph Convolutional Network for Accurate Drug Property Prediction,https://openalex.org/W2957050889,term present
+402,"Explainable Graph Neural Networks for Drug Repurposing: Methods, Biological Interpretability, and Clinical Insights",https://openalex.org/W7170064060,term present
+403,Co-Embedding of Nodes and Edges With Graph Neural Networks,https://openalex.org/W3093002101,term present
+404,Predicting Drug-Target Interactions Via Dual-Stream Graph Neural Network,https://openalex.org/W4294982708,term present
+405,A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction,https://openalex.org/W4415139279,term present
+406,TransG-net: transformer and graph neural network based multi-modal data fusion network for molecular properties prediction,https://openalex.org/W4310482569,term present
+407,CBSG_DPI—A Deep Learning Method for Drug-target Interactions Based on a Graph Convolutional Neural Network,https://openalex.org/W7203612873,term present
+408,Pairwise Interaction Field Neural Networks For Drug Discovery,https://openalex.org/W2185431605,term present
+409,Molecular graph Self attention and graph convolution for drug discovery,https://openalex.org/W3191891448,term present
+410,GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks,https://openalex.org/W2977319810,term present
+411,Identification of vital chemical information via visualization of graph neural networks,https://openalex.org/W4312018564,term present
+412,GraphCF: Drug–target interaction prediction via multi-feature fusion with contrastive graph neural network,https://openalex.org/W4411767989,term present
+413,Ligand binding affinity prediction with fusion of graph neural networks and 3D structure-based complex graph,https://openalex.org/W4386144732,term present
+414,Leveraging Machine Learning and Molecular Neural Networks to Interpret and Explain AI-Driven Prediction of Drug Efficacy,https://openalex.org/W4412445832,term present
+415,Computational Complexity Theory for Graph Neural Networks,https://openalex.org/W7204570530,term present
+416,Robust Meta-Learning over Graphs with Graph Neural Networks,https://openalex.org/W4401881631,term present
+417,Graph transformer neural network for chemical reactivity prediction,https://openalex.org/W4376643815,term present
+418,On Representation Knowledge Distillation for Graph Neural Networks,https://openalex.org/W3212385273,no domain term - manual review required
+419,Deep Neural Networks For In Silico Prediction Of Drug-Target Interactions: Advancements And Future Directions,https://openalex.org/W7217102730,term present
+420,ChemXTree: A Feature-Enhanced Graph Neural Network-Neural Decision Tree Framework for ADMET Prediction,https://openalex.org/W4404079238,term present
+421,A Novel Graph Neural Network Methodology to Investigate Dihydroorotate Dehydrogenase Inhibitors in Small Cell Lung Cancer,https://openalex.org/W3137194666,term present
+422,Graph-Based Representation Learning for Molecular Drug Discovery,https://openalex.org/W7210284173,term present
+423,SynerGNet: A Graph Neural Network Model to Predict Anticancer Drug Synergy,https://openalex.org/W4392003738,term present
+424,Data Integration Using Advances in Machine Learning in Drug Discovery and Molecular Biology,https://openalex.org/W3081397225,term present
+425,Coupling complementary strategy to flexible graph neural network for quick discovery of coformer in diverse co-crystal materials,https://openalex.org/W3205964505,term present
+426,E(n) Equivariant Graph Neural Networks,https://openalex.org/W3131204112,term present
+427,CNS-DDI: An Integrated Graph Neural Network Framework for Predicting Central Nervous System Related Drug-Drug Interactions,https://openalex.org/W4411717751,term present
+428,Drug–target affinity prediction with extended graph learning-convolutional networks,https://openalex.org/W4391885427,term present
+429,Graph neural networks in bioinformatics and medicine,https://openalex.org/W7163152467,term present
+430,B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data,https://openalex.org/W4416048024,term present
+431,Classifying Enzymatic Functions Using Graph Neural Networks: Insights from the ENZYMES Dataset,https://openalex.org/W4409047050,term present
+432,Few-shot link prediction via graph neural networks for Covid-19 drug-repurposing,https://openalex.org/W3042885244,term present
+433,Multi-channel PINN: investigating scalable and transferable neural networks for drug discovery,https://openalex.org/W2956769933,term present
+434,Detecting drug-drug interactions using artificial neural networks and classic graph similarity measures,https://openalex.org/W2922359247,term present
+435,DGCA-DTA: A Deep Graph Neural Network Based on Co-Attention for Drug Target Affinity Prediction,https://openalex.org/W4411688772,term present
+436,How Powerful are Membership Inference Attacks on Graph Neural Networks?,https://openalex.org/W4292696974,term present
+437,Molecule generation toward target protein (SARS-CoV-2) using reinforcement learning-based graph neural network via knowledge graph,https://openalex.org/W4313595375,term present
+438,A New Fingerprint and Graph Hybrid Neural Network for Predicting Molecular Properties,https://openalex.org/W4400974885,term present
+439,Fragment-Wise Interpretability in Graph Neural Networks via Molecule Decomposition and Contribution Analysis,https://openalex.org/W4416050335,term present
+440,Graph Convolutional Neural Network-Based Virtual Screening of Phytochemicals and In-Silico Docking Studies of Drug Compounds for Hemochromatosis,https://openalex.org/W4389233087,term present
+441,Universal Prompt Tuning for Graph Neural Networks,https://openalex.org/W7133193304,no domain term - manual review required
+442,CandidateDrug4Cancer: An Open Molecular Graph Learning Benchmark on Drug Discovery for Cancer,https://openalex.org/W4221142802,term present
+443,Applications of graph neural networks in simulation vs. animation,https://openalex.org/W7198995552,term present
+444,An algebraic graph neural network model for protein-ligand binding affinity prediction,https://openalex.org/W7203795609,term present
+445,Graph Neural Networks for Routing Optimization: Challenges and Opportunities,https://openalex.org/W4403731508,no domain term - manual review required
+446,Analysis of the interaction network relationship between drugs using a graph neural network,https://openalex.org/W7164377284,term present
+447,MARS: Markov Molecular Sampling for Multi-objective Drug Discovery,https://openalex.org/W3121085039,term present
+448,Graph Neural Networks with Hierarchical Relational Reasoning,https://openalex.org/W7204535531,term present
+449,GeoScatt-GNN: A geometric scattering transform-based graph neural network model for Ames mutagenicity prediction,https://openalex.org/W4415299724,no domain term - manual review required
+450,OOD-GNN: Out-of-Distribution Generalized Graph Neural Network,https://openalex.org/W4200635484,no domain term - manual review required
+451,Spatio-Temporal Graph Neural Networks: A Survey,https://openalex.org/W4318239920,no domain term - manual review required
+452,Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Drug-Like Molecules,https://openalex.org/W2998374989,term present
+453,GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs,https://openalex.org/W3158399077,term present
+454,Contextual Graph Neural Networks with Dynamic Attention Mechanisms,https://openalex.org/W7210270140,term present
+455,GNN-SubNet: disease subnetwork detection with explainable graph neural networks,https://openalex.org/W4296780664,term present
+456,UAC-GNN: Uncertainty-Aware Contrastive Graph Neural Networks for Left-Censored ADMET Property Prediction,https://openalex.org/W7138402130,term present
+457,Neural networks for improving drug discovery e fficiency,https://openalex.org/W2947876067,term present
+458,Biological Networks and Computational Graphs,https://openalex.org/W7160757275,term present
+459,Graph Neural Networks for Complex Relational Modeling and Knowledge Discovery,https://openalex.org/W7155955182,term present
+460,Neural Message Passing for Quantum Chemistry,https://openalex.org/W2606780347,term present
+461,Understanding the performance of knowledge graph embeddings in drug discovery,https://openalex.org/W3165146808,term present
+462,A review of biomedical datasets relating to drug discovery: a knowledge graph perspective,https://openalex.org/W3132689447,term present
+463,Graph based link prediction for epilepsy drug discovery,https://openalex.org/W4414653059,term present
+464,Convolutional graph neural network training scalability for molecular docking,https://openalex.org/W4379031106,term present
+465,Global Counterfactual Explainer for Graph Neural Networks,https://openalex.org/W4321485347,no domain term - manual review required
+466,GNNAS-Dock: Budget Aware Algorithm Selection with Graph Neural Networks for Molecular Docking,https://openalex.org/W4404574091,term present
+467,Multi-fidelity graph neural networks for predicting toluene/water partition coefficients,https://openalex.org/W4401424877,term present
+468,Inference Attacks Against Graph Neural Networks,https://openalex.org/W3204085787,no domain term - manual review required
+469,A Practical Tutorial on Graph Neural Networks,https://openalex.org/W4206730766,no domain term - manual review required
+470,Cross-dependent graph neural networks for molecular property prediction,https://openalex.org/W4210313485,term present
+471,End-to-End Intelligent Drug Discovery via a Scalable and Explainable Graph-Transformer Framework,https://openalex.org/W7204111391,term present
+472,Context-Sensitive Graph Neural Networks with Relational Attention,https://openalex.org/W7211890717,term present
+473,Graph in Graph Neural Network,https://openalex.org/W7134130545,no domain term - manual review required
+474,Graph Neural Networks: A bibliometrics overview,https://openalex.org/W4296200271,no domain term - manual review required
+475,Localised Graph Neural Networks for Aqueous Solubility Prediction: A New Paradigm in QSPR Modelling,https://openalex.org/W4415683753,term present
+476,GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration,https://openalex.org/W4221149926,term present
+477,Drug Repurposing Therapeutics Prediction using Hierarchical Graph Neural Network,https://openalex.org/W4313525544,term present
+478,On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints,https://openalex.org/W7160890222,term present
+479,ACR-GNN: Adaptive Cluster Reinforcement Graph Neural Network Based on Contrastive Learning,https://openalex.org/W4381054534,no domain term - manual review required
+480,Graph Neural Networks with Memory-Augmented Attention Mechanisms,https://openalex.org/W7206213530,term present
+481,Cross Attention and Intra-Layer Attention in Heterogeneous Graph Neural Networks for Drug–Target Interaction Prediction,https://openalex.org/W4411949987,term present
+482,GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks,https://openalex.org/W4392617684,term present
+483,Dynamically Reconfigurable Hardware Accelerators for Graph Neural Networks,https://openalex.org/W7204970162,term present
+484,Self-Supervised Graph Transformer on Large-Scale Molecular Data,https://openalex.org/W3101620381,term present
+485,Benchmarking Graph Neural Network Algorithms for Drug Repurposing with Temporal Validation on Open Targets Platform,https://openalex.org/W7115193688,term present
+486,Graph Neural Networks in Molecular Interaction Prediction,https://openalex.org/W7203880607,term present
+487,Differentially Private Graph Neural Networks for Whole-Graph Classification,https://openalex.org/W4312521712,term present
+488,SAGDTI: self-attention and graph neural network with multiple information representations for the prediction of drug–target interactions,https://openalex.org/W4386195825,term present
+489,An integrated graph neural network and structure-based workflow for the discovery of allosteric PCSK9 inhibitors,https://openalex.org/W7202040323,term present
+490,Predicting drug combination side effects based on a metapath-based heterogeneous graph neural network,https://openalex.org/W4406405090,term present
+491,Chemically-aware explainable graph neural network framework for drug-target interaction prediction,https://openalex.org/W7224428775,term present
+492,Improving Molecular Property Prediction with Degree-Bounded Graph Neural Networks,https://openalex.org/W7106016307,term present
+493,MSN-DTA: A multi-scale node adaptive graph neural network for interpretable drug-target binding affinity prediction,https://openalex.org/W4410065093,term present
+494,Feature-enhanced graph neural network with multiple attention for molecular property prediction,https://openalex.org/W4417507003,term present
+495,Subgraph Neural Networks Enhanced by Global Similarity for Drug Repositioning,https://openalex.org/W4415672113,term present
+496,Exploring a Siamese Neural Network Architecture for One-Shot Drug Discovery,https://openalex.org/W3113626051,term present
+497,Application of an Improved Graph Neural Network for Drug Property Prediction,https://openalex.org/W4393285792,term present
+498,Complex machine learning model needs complex testing: Examining predictability of molecular binding affinity by a graph neural network,https://openalex.org/W4213426032,term present
+499,Drug-Target Prediction Based on Dynamic Heterogeneous Graph Convolutional Network,https://openalex.org/W4401452717,term present
+500,Title: Emergent Topological Order in Graph Neural Networks,https://openalex.org/W7208805584,term present
+501,Impact of molecular multimodality on neural network models for prediction tasks related to drug discovery,https://openalex.org/W7166517576,term present
+502,Effectively Identifying Compound-Protein Interaction Using Graph Neural Representation,https://openalex.org/W4290993847,term present
+503,3DProtDTA: a deep learning model for drug-target affinity prediction based on residue-level protein graphs,https://openalex.org/W4361985865,term present
+504,Quantifying the spatial homogeneity of urban road networks via graph neural networks,https://openalex.org/W3119196674,no domain term - manual review required
+505,Acceleration of Graph Neural Networks with Heterogenous Accelerators Architecture,https://openalex.org/W4406157239,term present
+506,Adaptive Transfer of Graph Neural Networks for Few-Shot Molecular Property Prediction,https://openalex.org/W4387934986,term present
+507,COMPUTATIONAL PREDICTION OF MOLECULAR TOXICITY USING MULTI-ENDPOINT RANDOM FORESTS AND GRAPH NEURAL NETWORKS,https://openalex.org/W7140277438,term present
+508,Network-based drug sensitivity prediction,https://openalex.org/W3117393006,term present
+509,TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction,https://openalex.org/W7133244980,term present
+510,Predicting Drug-target Binding Affinity Based on Graph Isomorphism Network and iTransformer,https://openalex.org/W4402928355,term present
+511,A Deep Learning Approach to the Prediction of Drug Side–Effects on Molecular Graphs,https://openalex.org/W4386363126,term present
+512,GENNDTI: Drug-Target Interaction Prediction Using Graph Neural Network Enhanced by Router Nodes,https://openalex.org/W4398151479,term present
+513,Dual modality feature fused neural network integrating binding site information for drug target affinity prediction,https://openalex.org/W4406892770,term present
+514,A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction,https://openalex.org/W3036836886,no domain term - manual review required
+515,Graph Coordinates and Conventional Neural Networks - An Alternative for Graph Neural Networks,https://openalex.org/W4391113916,term present
+516,DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs,https://openalex.org/W4377232689,term present
+517,Meta-Learning for Adaptive Graph Neural Network Architectures,https://openalex.org/W7207861722,term present
+518,HypBench: Hyperbolic Benchmark for Graph Neural Network Performance,https://openalex.org/W7163688935,term present
+519,Dynamic Spiking Graph Neural Networks,https://openalex.org/W4393157120,no domain term - manual review required
+520,Enhancing Graph Neural Networks for Multi-target Activity Prediction Through Multi-task Learning and Knowledge Distillation,https://openalex.org/W7126072549,no domain term - manual review required
+521,Design Requirements for Human-Centered Graph Neural Network Explanations,https://openalex.org/W4396913148,term present
+522,Uncertainty in Graph Neural Networks: A Survey,https://openalex.org/W4392781832,no domain term - manual review required
+523,Constructing a graph neural network-based artificial intelligence model to predict drug-induced phospholipidosis potential,https://openalex.org/W4404608545,term present
+524,Quantum Graph Neural Networks Based Protein-Ligand Classification,https://openalex.org/W4401706926,term present
+525,Fundamentals of graph theory and biological networks,https://openalex.org/W4416029343,no domain term - manual review required
+526,The Influence of Artificial Intelligence in Drug Discovery and Development,https://openalex.org/W4407031150,term present

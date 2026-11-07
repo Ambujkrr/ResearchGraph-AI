@@ -1,0 +1,65 @@
+paper_id,title,openalex_id,label,basis
+1,Graph neural networks,https://openalex.org/W4392553889,uncertain,Title alone insufficient; no expert classification inferred
+71,Everything is connected: Graph neural networks,https://openalex.org/W4319762935,uncertain,Title alone insufficient; no expert classification inferred
+79,Message Passing Neural Networks,https://openalex.org/W3034077950,uncertain,Title alone insufficient; no expert classification inferred
+90,A Comprehensive Survey on Graph Neural Networks,https://openalex.org/W2907492528,uncertain,Title alone insufficient; no expert classification inferred
+91,Learning Convolutional Neural Networks for Graphs,https://openalex.org/W2406128552,uncertain,Title alone insufficient; no expert classification inferred
+95,Graph Neural Networks in Cheminformatics,https://openalex.org/W3126515710,title-rule in-domain,Title explicitly concerns cheminformatics
+109,Hyperbolic Graph Neural Networks,https://openalex.org/W2970726356,uncertain,Title alone insufficient; no expert classification inferred
+119,Graph neural networks for bioinformatics,https://openalex.org/W7169513567,uncertain,Title alone insufficient; no expert classification inferred
+122,Graph Neural Networks for Graphs With Heterophily: A Survey,https://openalex.org/W4221150249,uncertain,Title alone insufficient; no expert classification inferred
+136,Parameterized Explainer for Graph Neural Network,https://openalex.org/W3103717137,uncertain,Title alone insufficient; no expert classification inferred
+139,Explainability in Graph Neural Networks: A Taxonomic Survey,https://openalex.org/W3116637551,uncertain,Title alone insufficient; no expert classification inferred
+144,A Survey on Oversmoothing in Graph Neural Networks,https://openalex.org/W4353007232,uncertain,Title alone insufficient; no expert classification inferred
+157,Backdoor Attacks to Graph Neural Networks,https://openalex.org/W3167334189,uncertain,Title alone insufficient; no expert classification inferred
+165,Graph Neural Networks: Graph Structure Learning,https://openalex.org/W4205903069,uncertain,Title alone insufficient; no expert classification inferred
+171,Design Space for Graph Neural Networks,https://openalex.org/W3098230582,uncertain,Title alone insufficient; no expert classification inferred
+173,Evaluating explainability for graph neural networks,https://openalex.org/W4327813569,uncertain,Title alone insufficient; no expert classification inferred
+188,Graph Condensation for Graph Neural Networks,https://openalex.org/W3206450082,uncertain,Title alone insufficient; no expert classification inferred
+190,BioGNN: How Graph Neural Networks Can Solve Biological Problems,https://openalex.org/W4297237009,uncertain,Title alone insufficient; no expert classification inferred
+198,Identity-aware Graph Neural Networks,https://openalex.org/W3126138172,uncertain,Title alone insufficient; no expert classification inferred
+214,Exploring the Versatile Applications of Graph Neural Networks,https://openalex.org/W4412914374,uncertain,Title alone insufficient; no expert classification inferred
+222,Analysis of gene regulatory networks from gene expression using graph neural networks,https://openalex.org/W4407051264,uncertain,Title alone insufficient; no expert classification inferred
+251,Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction,https://openalex.org/W3212564326,uncertain,Title alone insufficient; no expert classification inferred
+292,Self-Supervised Learning of Graph Neural Networks: A Unified Review,https://openalex.org/W3129850062,uncertain,Title alone insufficient; no expert classification inferred
+301,"A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",https://openalex.org/W4315977496,title-rule out-of-domain,Title explicitly focuses on recommender systems
+305,Combinatorial optimization with physics-inspired graph neural networks,https://openalex.org/W3181036294,uncertain,Title alone insufficient; no expert classification inferred
+306,Learning graph normalization for graph neural networks,https://openalex.org/W4206663027,uncertain,Title alone insufficient; no expert classification inferred
+308,"Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities",https://openalex.org/W4385764404,uncertain,Title alone insufficient; no expert classification inferred
+312,On Explainability of Graph Neural Networks via Subgraph Explorations,https://openalex.org/W3126371003,uncertain,Title alone insufficient; no expert classification inferred
+314,XGNN: Towards Model-Level Explanations of Graph Neural Networks,https://openalex.org/W3033892090,uncertain,Title alone insufficient; no expert classification inferred
+315,"Federated Graph Neural Networks: Overview, Techniques, and Challenges",https://openalex.org/W4391661565,uncertain,Title alone insufficient; no expert classification inferred
+326,Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings,https://openalex.org/W3036106327,uncertain,Title alone insufficient; no expert classification inferred
+330,Distributed Graph Neural Network Training: A Survey,https://openalex.org/W4391884321,uncertain,Title alone insufficient; no expert classification inferred
+332,Rethinking pooling in graph neural networks,https://openalex.org/W3094309150,uncertain,Title alone insufficient; no expert classification inferred
+337,Revolutionizing AI: Applications of Graph Neural Networks Across Industries,https://openalex.org/W4412914434,uncertain,Title alone insufficient; no expert classification inferred
+347,Local Augmentation for Graph Neural Networks,https://openalex.org/W3197135001,uncertain,Title alone insufficient; no expert classification inferred
+352,Decoupling the Depth and Scope of Graph Neural Networks,https://openalex.org/W3214086726,uncertain,Title alone insufficient; no expert classification inferred
+353,Substructure Aware Graph Neural Networks,https://openalex.org/W4382202967,uncertain,Title alone insufficient; no expert classification inferred
+359,GraphBioisostere: General Bioisostere Prediction Model with Deep Graph Neural Network,https://openalex.org/W7169620287,title-rule in-domain,Title explicitly concerns bioisostere prediction
+365,ProtGNN: Towards Self-Explaining Graph Neural Networks,https://openalex.org/W3215430231,uncertain,Title alone insufficient; no expert classification inferred
+375,FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks,https://openalex.org/W3154667344,uncertain,Title alone insufficient; no expert classification inferred
+381,Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks,https://openalex.org/W2796167946,uncertain,Title alone insufficient; no expert classification inferred
+383,Towards Self-Explainable Graph Neural Network,https://openalex.org/W3207981989,uncertain,Title alone insufficient; no expert classification inferred
+384,Fast Haar Transforms for Graph Neural Networks,https://openalex.org/W3021853564,uncertain,Title alone insufficient; no expert classification inferred
+388,Unnoticeable Backdoor Attacks on Graph Neural Networks,https://openalex.org/W4323066547,uncertain,Title alone insufficient; no expert classification inferred
+395,Graph Kernel Neural Networks,https://openalex.org/W4226438841,uncertain,Title alone insufficient; no expert classification inferred
+396,Graph coloring with physics-inspired graph neural networks,https://openalex.org/W4309830359,title-rule out-of-domain,Title explicitly focuses on graph coloring
+418,On Representation Knowledge Distillation for Graph Neural Networks,https://openalex.org/W3212385273,uncertain,Title alone insufficient; no expert classification inferred
+441,Universal Prompt Tuning for Graph Neural Networks,https://openalex.org/W7133193304,uncertain,Title alone insufficient; no expert classification inferred
+445,Graph Neural Networks for Routing Optimization: Challenges and Opportunities,https://openalex.org/W4403731508,title-rule out-of-domain,Title explicitly focuses on routing optimization
+449,GeoScatt-GNN: A geometric scattering transform-based graph neural network model for Ames mutagenicity prediction,https://openalex.org/W4415299724,title-rule in-domain,Title explicitly concerns Ames mutagenicity prediction
+450,OOD-GNN: Out-of-Distribution Generalized Graph Neural Network,https://openalex.org/W4200635484,uncertain,Title alone insufficient; no expert classification inferred
+451,Spatio-Temporal Graph Neural Networks: A Survey,https://openalex.org/W4318239920,uncertain,Title alone insufficient; no expert classification inferred
+465,Global Counterfactual Explainer for Graph Neural Networks,https://openalex.org/W4321485347,uncertain,Title alone insufficient; no expert classification inferred
+468,Inference Attacks Against Graph Neural Networks,https://openalex.org/W3204085787,uncertain,Title alone insufficient; no expert classification inferred
+469,A Practical Tutorial on Graph Neural Networks,https://openalex.org/W4206730766,uncertain,Title alone insufficient; no expert classification inferred
+473,Graph in Graph Neural Network,https://openalex.org/W7134130545,uncertain,Title alone insufficient; no expert classification inferred
+474,Graph Neural Networks: A bibliometrics overview,https://openalex.org/W4296200271,uncertain,Title alone insufficient; no expert classification inferred
+479,ACR-GNN: Adaptive Cluster Reinforcement Graph Neural Network Based on Contrastive Learning,https://openalex.org/W4381054534,uncertain,Title alone insufficient; no expert classification inferred
+504,Quantifying the spatial homogeneity of urban road networks via graph neural networks,https://openalex.org/W3119196674,title-rule out-of-domain,Title explicitly focuses on urban road-network spatial homogeneity
+514,A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction,https://openalex.org/W3036836886,uncertain,Title alone insufficient; no expert classification inferred
+519,Dynamic Spiking Graph Neural Networks,https://openalex.org/W4393157120,uncertain,Title alone insufficient; no expert classification inferred
+520,Enhancing Graph Neural Networks for Multi-target Activity Prediction Through Multi-task Learning and Knowledge Distillation,https://openalex.org/W7126072549,uncertain,Title alone insufficient; no expert classification inferred
+522,Uncertainty in Graph Neural Networks: A Survey,https://openalex.org/W4392781832,uncertain,Title alone insufficient; no expert classification inferred
+525,Fundamentals of graph theory and biological networks,https://openalex.org/W4416029343,uncertain,Title alone insufficient; no expert classification inferred
